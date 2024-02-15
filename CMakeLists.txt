@@ -29,4 +29,4 @@ if (CMAKE_C_COMPILER_ID STREQUAL "GNU")
 endif()
 
 # Hardware-specific examples in subdirectories:
-add_subdirectory(squarewave)
+add_subdirectory(src)
