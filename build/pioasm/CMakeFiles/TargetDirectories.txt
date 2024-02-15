@@ -1,0 +1,3 @@
+/Users/tim/Documents/Workspace/pico-examples-debug/build/pioasm/CMakeFiles/pioasm.dir
+/Users/tim/Documents/Workspace/pico-examples-debug/build/pioasm/CMakeFiles/edit_cache.dir
+/Users/tim/Documents/Workspace/pico-examples-debug/build/pioasm/CMakeFiles/rebuild_cache.dir
