@@ -45,7 +45,7 @@ int main() {
     // UART baud rate. This register has 16 integer divisor bits and 8
     // fractional divisor bits.
 //    pio->sm[0].clkdiv = (uint32_t) (2.5f * (1 << 16));
-    pio->sm[0].clkdiv = (uint32_t) (4.5f * (1 << 16));
+    pio->sm[0].clkdiv = (uint32_t) (2.5f * (1 << 16));
     /// \end::clock_divider[]
 
     /// \tag::setup_pins[]
